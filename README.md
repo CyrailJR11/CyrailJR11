@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=CyrailJR11&label=Profile%20views&color=2E75B6&style=flat" alt="profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CyrailJR11.CyrailJR11&left_color=grey&right_color=%232E75B6" alt="profile views" />
 <a href="https://www.linkedin.com/in/carlos-rodriguez-dev">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2E75B6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>

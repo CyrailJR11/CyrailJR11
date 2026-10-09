@@ -29,81 +29,81 @@
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/csharp.svg" alt="C#" width="45" height="45" title="C#" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/cpp.svg" alt="C++" width="45" height="45" title="C++" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/dotnet.svg" alt=".NET" width="45" height="45" title=".NET" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/java.svg" alt="Java" width="45" height="45" title="Java" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/python.svg" alt="Python" width="45" height="45" title="Python" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/js.svg" alt="JavaScript" width="45" height="45" title="JavaScript" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/kotlin.svg" alt="Kotlin" width="45" height="45" title="Kotlin" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sql.svg" alt="SQL" width="45" height="45" title="SQL" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/ts.svg" alt="TypeScript" width="45" height="45" title="TypeScript" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/csharp.svg?v=2" alt="C#" width="45" height="45" title="C#" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/cpp.svg?v=2" alt="C++" width="45" height="45" title="C++" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/dotnet.svg?v=2" alt=".NET" width="45" height="45" title=".NET" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/java.svg?v=2" alt="Java" width="45" height="45" title="Java" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/python.svg?v=2" alt="Python" width="45" height="45" title="Python" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/js.svg?v=2" alt="JavaScript" width="45" height="45" title="JavaScript" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/kotlin.svg?v=2" alt="Kotlin" width="45" height="45" title="Kotlin" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sql.svg?v=2" alt="SQL" width="45" height="45" title="SQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/ts.svg?v=2" alt="TypeScript" width="45" height="45" title="TypeScript" />
 </p>
 
 <p align="center"><b>Web</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/react.svg" alt="React" width="45" height="45" title="React" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/vite.svg" alt="Vite" width="45" height="45" title="Vite" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/node.svg" alt="Node.js" width="45" height="45" title="Node.js" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/html.svg" alt="HTML5" width="45" height="45" title="HTML5" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/css.svg" alt="CSS3" width="45" height="45" title="CSS3" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/react.svg?v=2" alt="React" width="45" height="45" title="React" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/vite.svg?v=2" alt="Vite" width="45" height="45" title="Vite" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/node.svg?v=2" alt="Node.js" width="45" height="45" title="Node.js" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/html.svg?v=2" alt="HTML5" width="45" height="45" title="HTML5" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/css.svg?v=2" alt="CSS3" width="45" height="45" title="CSS3" />
 </p>
 
 <p align="center"><b>Mobile</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/android.svg" alt="Android" width="45" height="45" title="Android" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/jetpack.svg" alt="Jetpack Compose" width="45" height="45" title="Jetpack Compose" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/android.svg?v=2" alt="Android" width="45" height="45" title="Android" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/jetpack.svg?v=2" alt="Jetpack Compose" width="45" height="45" title="Jetpack Compose" />
 </p>
 
 <p align="center"><b>Frameworks & Libraries</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/hibernate.svg" alt="Hibernate" width="45" height="45" title="Hibernate" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sqlalchemy.svg" alt="SQLAlchemy" width="45" height="45" title="SQLAlchemy" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/tkinter.svg" alt="Tkinter" width="45" height="45" title="Tkinter" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sfml.svg" alt="SFML" width="45" height="45" title="SFML" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/hibernate.svg?v=2" alt="Hibernate" width="45" height="45" title="Hibernate" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sqlalchemy.svg?v=2" alt="SQLAlchemy" width="45" height="45" title="SQLAlchemy" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/tkinter.svg?v=2" alt="Tkinter" width="45" height="45" title="Tkinter" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sfml.svg?v=2" alt="SFML" width="45" height="45" title="SFML" />
 </p>
 
 <p align="center"><b>Databases</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/mysql.svg" alt="MySQL" width="45" height="45" title="MySQL" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/postgres.svg" alt="PostgreSQL" width="45" height="45" title="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sqlite.svg" alt="SQLite" width="45" height="45" title="SQLite" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/oracle.svg" alt="Oracle" width="45" height="45" title="Oracle" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/mysql.svg?v=2" alt="MySQL" width="45" height="45" title="MySQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/postgres.svg?v=2" alt="PostgreSQL" width="45" height="45" title="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sqlite.svg?v=2" alt="SQLite" width="45" height="45" title="SQLite" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/oracle.svg?v=2" alt="Oracle" width="45" height="45" title="Oracle" />
 </p>
 
 <p align="center"><b>Markup Languages</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xml.svg" alt="XML" width="45" height="45" title="XML" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xslt.svg" alt="XSLT" width="45" height="45" title="XSLT" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xquery.svg" alt="XQuery" width="45" height="45" title="XQuery" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xml.svg?v=2" alt="XML" width="45" height="45" title="XML" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xslt.svg?v=2" alt="XSLT" width="45" height="45" title="XSLT" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xquery.svg?v=2" alt="XQuery" width="45" height="45" title="XQuery" />
 </p>
 
 <p align="center"><b>Systems</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/windows.svg" alt="Windows Server" width="45" height="45" title="Windows Server" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/ad.svg" alt="Active Directory" width="45" height="45" title="Active Directory" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/windows.svg?v=2" alt="Windows Server" width="45" height="45" title="Windows Server" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/ad.svg?v=2" alt="Active Directory" width="45" height="45" title="Active Directory" />
 </p>
 
 <p align="center"><b>Game Dev & Tools</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/unity.svg" alt="Unity" width="45" height="45" title="Unity" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/git.svg" alt="Git" width="45" height="45" title="Git" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/github.svg" alt="GitHub" width="45" height="45" title="GitHub" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/unity.svg?v=2" alt="Unity" width="45" height="45" title="Unity" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/git.svg?v=2" alt="Git" width="45" height="45" title="Git" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/github.svg?v=2" alt="GitHub" width="45" height="45" title="GitHub" />
 </p>
 
 <p align="center"><b>Business Tools</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/odoo.svg" alt="Odoo" width="45" height="45" title="Odoo" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/powerbi.svg" alt="Power BI" width="45" height="45" title="Power BI" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/odoo.svg?v=2" alt="Odoo" width="45" height="45" title="Odoo" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/powerbi.svg?v=2" alt="Power BI" width="45" height="45" title="Power BI" />
 </p>
 
 <p align="center"><b>AI Tools</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/claude.svg" alt="Claude" width="45" height="45" title="Claude" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/chatgpt.svg" alt="ChatGPT" width="45" height="45" title="ChatGPT" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/gemini.svg" alt="Gemini" width="45" height="45" title="Gemini" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/copilot.svg" alt="GitHub Copilot" width="45" height="45" title="GitHub Copilot" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/perplexity.svg" alt="Perplexity" width="45" height="45" title="Perplexity" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/claude.svg?v=2" alt="Claude" width="45" height="45" title="Claude" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/chatgpt.svg?v=2" alt="ChatGPT" width="45" height="45" title="ChatGPT" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/gemini.svg?v=2" alt="Gemini" width="45" height="45" title="Gemini" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/copilot.svg?v=2" alt="GitHub Copilot" width="45" height="45" title="GitHub Copilot" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/perplexity.svg?v=2" alt="Perplexity" width="45" height="45" title="Perplexity" />
 </p>
 
 ---

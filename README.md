@@ -36,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45" title="Kotlin" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sql.svg" alt="SQL" width="45" height="45" title="SQL" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" title="TypeScript" />
 </p>
 
@@ -57,53 +57,53 @@
 
 <p align="center"><b>Frameworks & Libraries</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="45" height="45" title="Hibernate" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="45" height="45" title="SQLAlchemy" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/hibernate.svg" alt="Hibernate" width="45" height="45" title="Hibernate" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sqlalchemy.svg" alt="SQLAlchemy" width="45" height="45" title="SQLAlchemy" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/tkinter.svg" alt="Tkinter" width="45" height="45" title="Tkinter" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sfml.svg" alt="SFML" width="45" height="45" title="SFML" />
 </p>
 
 <p align="center"><b>Databases</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" title="MySQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/mysql.svg" alt="MySQL" width="45" height="45" title="MySQL" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" title="PostgreSQL" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45" title="SQLite" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45" title="Oracle" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/oracle.svg" alt="Oracle" width="45" height="45" title="Oracle" />
 </p>
 
 <p align="center"><b>Markup Languages</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/XSLT-E34F26?style=for-the-badge" alt="XSLT" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/XQuery-2E75B6?style=for-the-badge" alt="XQuery" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xml.svg" alt="XML" width="45" height="45" title="XML" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xslt.svg" alt="XSLT" width="45" height="45" title="XSLT" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xquery.svg" alt="XQuery" width="45" height="45" title="XQuery" />
 </p>
 
 <p align="center"><b>Systems</b></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="45" height="45" title="Windows Server" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/ad.svg" alt="Active Directory" width="45" height="45" title="Active Directory" />
 </p>
 
 <p align="center"><b>Game Dev & Tools</b></p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45" title="Unity" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/unity.svg" alt="Unity" width="45" height="45" title="Unity" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/github.svg" alt="GitHub" width="45" height="45" title="GitHub" />
 </p>
 
 <p align="center"><b>Business Tools</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/odoo.svg" alt="Odoo" width="45" height="45" title="Odoo" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/powerbi.svg" alt="Power BI" width="45" height="45" title="Power BI" />
 </p>
 
 <p align="center"><b>AI Tools</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/claude.svg" alt="Claude" width="45" height="45" title="Claude" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/chatgpt.svg" alt="ChatGPT" width="45" height="45" title="ChatGPT" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/gemini.svg" alt="Gemini" width="45" height="45" title="Gemini" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/copilot.svg" alt="GitHub Copilot" width="45" height="45" title="GitHub Copilot" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/perplexity.svg" alt="Perplexity" width="45" height="45" title="Perplexity" />
 </p>
 
 ---

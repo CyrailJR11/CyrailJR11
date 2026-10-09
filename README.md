@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Rodriguez</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Multiplatform+App+Development+student;Video+Games+%26+Digital+Entertainment;Web+%C2%B7+Desktop+%C2%B7+Games;C%23+%7C+Java+%7C+React+%7C+Python;Always+building+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Multiplatform+App+Developer;Video+Games+%26+Digital+Entertainment;Web+%C2%B7+Desktop+%C2%B7+Games;C%23+%7C+Java+%7C+React+%7C+Python;Always+building+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Studying **Multiplatform Application Development** at **La Salle Girona**, specializing in **Video Games & Digital Entertainment**.
+- 🎓 **Multiplatform Application Development** (La Salle Girona, graduating June 2027), specializing in **Video Games & Digital Entertainment**.
 - 🌱 Always building my own **web, desktop and game** projects while learning new tech.
 - 💻 Comfortable with **C#, C++, Java, Python and JavaScript/TypeScript**, plus web & databases.
 - 🖥️ Also experienced with **Windows Server, Active Directory**, computer repair and **remote systems management**.
@@ -96,7 +96,7 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🎬 **ento-web** | Web app to browse and rank **1000+ movies**  &nbsp;·&nbsp; [🔗 Live demo](https://ento-web.vercel.app) | React · TypeScript · Vite · TMDB API |
+| 🎬 **ento-web** | Web app to browse and rank movies  &nbsp;·&nbsp; [🔗 Live demo](https://ento-web.vercel.app) | React · TypeScript · Vite · TMDB API |
 | 📱 **Clash Manager** | Desktop app to manage and store data | Python · Tkinter · SQLAlchemy |
 | ⚔️ **Batalla por Turnos** | Turn-based combat game | Unity 6 · C# · OOP |
 | 🗄️ **Hibernate CRUD** | CRUD apps over a relational database | Java · Hibernate · PostgreSQL |

@@ -46,7 +46,8 @@
 <a href="https://vite.dev/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/vite.svg?v=2" alt="Vite" width="45" height="45" title="Vite" /></a>&nbsp;&nbsp;
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/node.svg?v=2" alt="Node.js" width="45" height="45" title="Node.js" /></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/html.svg?v=2" alt="HTML5" width="45" height="45" title="HTML5" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/css.svg?v=2" alt="CSS3" width="45" height="45" title="CSS3" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/css.svg?v=2" alt="CSS3" width="45" height="45" title="CSS3" /></a>&nbsp;&nbsp;
+<a href="https://workers.cloudflare.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/cloudflare.svg?v=2" alt="Cloudflare Workers" width="45" height="45" title="Cloudflare Workers" /></a>
 </p>
 
 <p align="center"><b>Mobile</b></p>
@@ -68,14 +69,16 @@
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/mysql.svg?v=2" alt="MySQL" width="45" height="45" title="MySQL" /></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/postgres.svg?v=2" alt="PostgreSQL" width="45" height="45" title="PostgreSQL" /></a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/sqlite.svg?v=2" alt="SQLite" width="45" height="45" title="SQLite" /></a>&nbsp;&nbsp;
-<a href="https://www.oracle.com/database/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/oracle.svg?v=2" alt="Oracle" width="45" height="45" title="Oracle" /></a>
+<a href="https://www.oracle.com/database/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/oracle.svg?v=2" alt="Oracle" width="45" height="45" title="Oracle" /></a>&nbsp;&nbsp;
+<a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/supabase.svg?v=2" alt="Supabase" width="45" height="45" title="Supabase" /></a>
 </p>
 
 <p align="center"><b>Markup Languages</b></p>
 <p align="center">
 <a href="https://www.w3.org/XML/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xml.svg?v=2" alt="XML" width="45" height="45" title="XML" /></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/TR/xslt-30/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xslt.svg?v=2" alt="XSLT" width="45" height="45" title="XSLT" /></a>&nbsp;&nbsp;
-<a href="https://www.w3.org/TR/xquery-31/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xquery.svg?v=2" alt="XQuery" width="45" height="45" title="XQuery" /></a>
+<a href="https://www.w3.org/TR/xquery-31/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xquery.svg?v=2" alt="XQuery" width="45" height="45" title="XQuery" /></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/XML/Schema"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/xsd.svg?v=2" alt="XSD (XML Schema)" width="45" height="45" title="XSD (XML Schema)" /></a>
 </p>
 
 <p align="center"><b>Systems</b></p>
@@ -88,7 +91,9 @@
 <p align="center">
 <a href="https://unity.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/unity.svg?v=2" alt="Unity" width="45" height="45" title="Unity" /></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/git.svg?v=2" alt="Git" width="45" height="45" title="Git" /></a>&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/github.svg?v=2" alt="GitHub" width="45" height="45" title="GitHub" /></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/github.svg?v=2" alt="GitHub" width="45" height="45" title="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/githubactions.svg?v=2" alt="GitHub Actions" width="45" height="45" title="GitHub Actions" /></a>&nbsp;&nbsp;
+<a href="https://www.drawio.com/"><img src="https://raw.githubusercontent.com/CyrailJR11/CyrailJR11/main/icons/drawio.svg?v=2" alt="draw.io" width="45" height="45" title="draw.io" /></a>
 </p>
 
 <p align="center"><b>Business Tools</b></p>
@@ -113,6 +118,7 @@
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | 🎬 **ento-web** | Web app to browse and rank movies  &nbsp;·&nbsp; [🔗 Live demo](https://ento-web.vercel.app) | React · TypeScript · Vite · TMDB API |
+| ⛽ **Combustibles de Girona** | Mobile web app (PWA) to compare fuel prices in Girona &nbsp;·&nbsp; [🔗 Live demo](https://cyrailjr11.github.io/Precios-Gasolineras/) | JavaScript · HTML · CSS · Cloudflare Workers |
 | 📱 **Clash Manager** | Desktop app to manage and store data | Python · Tkinter · SQLAlchemy |
 | ⚔️ **Batalla por Turnos** | Turn-based combat game | Unity 6 · C# · OOP |
 | 🗄️ **Hibernate CRUD** | CRUD apps over a relational database | Java · Hibernate · PostgreSQL |
@@ -140,8 +146,5 @@
 </a>
 <a href="mailto:rodriguezcarlos0598@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://ento-web.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
 </a>
 </p>
